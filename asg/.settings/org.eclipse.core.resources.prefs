@@ -1,0 +1,8 @@
+eclipse.preferences.version=1
+encoding//src/com/entity/Video.java=UTF-8
+encoding//src/com/servlet/LoginServlet.java=UTF-8
+encoding//src/com/servlet/admin/UserServlet.java=UTF-8
+encoding//src/com/servlet/forgotServlet.java=UTF-8
+encoding//src/com/servlet/user/ShareServlet.java=UTF-8
+encoding//webapp/views/home.jsp=UTF-8
+encoding//webapp/views/user/share.jsp=UTF-8
